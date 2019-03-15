@@ -1,0 +1,18 @@
+daniel:
+  username: daniel
+  name: Daniel Botella
+  url_full: https://justgoodthemes.com/
+  url: justgoodthemes.com
+  bio: Daniel es un diseñador curioso que se diseñó al él mismo a su imagen y semejanza. Hoy es reconocido por parecerse a él mismo y se dice que también se parece a Dios.
+  picture: /assets/images/daniel.jpg
+  facebook: justgoodthemes
+  twitter: justgoodthemes
+nancy:
+  username: nancy
+  name: Nancy Pelusa
+  url_full: https://justgoodthemes.com/
+  url: justgoodthemes.com
+  bio: Nancy es una reportera que logro su estrellato luego de estrellarse contra una estrella. Ha obtenido numerosos premios en concursos que ella misma ha inventado.
+  picture: /assets/images/nancy.jpg
+  facebook: False
+  twitter: justgoodthemes
