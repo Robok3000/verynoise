@@ -5,7 +5,7 @@ description: 'La guía FancyPOP más COOL y Total del mundo'
 site_description: 'Bienvenidos a la guía de panoramas y eventos más entretenida de la internet. Te invitamos a recorrer tu ciudad y a encontrarte con sus habitantes'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: /verynoise
+baseurl: www.verynoise.cool
 production_url: https://forma.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
