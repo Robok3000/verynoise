@@ -1,8 +1,8 @@
 # Site setings
 name: 'VeryNOISE'
-description: 'La guía FancyPOP más COOL y Total del mundo'
+description: 'La guía FancyPOP de Arte, Tendencias, Culture Millenial & Others Shits'
 # Sidebar about text
-site_description: 'Bienvenidos a la guía de panoramas y eventos más entretenida de la internet. Te invitamos a recorrer tu ciudad y a encontrarte con sus habitantes'
+site_description: 'Somos la expresión de la nueva moda. Nuestro periodismo es puro y marcará la tendencia del nuevo decenio. Hacemos historias'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: https://www.verynoise.cool
