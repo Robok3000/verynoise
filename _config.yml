@@ -5,7 +5,7 @@ description: 'La guía FancyPOP de Arte, Tendencias, Culture Millenial & Others 
 site_description: 'Somos la expresión de la nueva moda. Nuestro periodismo es puro y marcará la tendencia del nuevo decenio. Hacemos historias'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: https://www.verynoise.cool
+baseurl: 
 production_url: https://forma.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
