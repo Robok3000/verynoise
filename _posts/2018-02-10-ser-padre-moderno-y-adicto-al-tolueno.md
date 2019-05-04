@@ -9,7 +9,7 @@ author: Nuel
 
 En una era de nuevas leyes sobre el tolueno y el avance de las investigaciones, la conversación que están teniendo las familias sobre el **metilbenceno** está cambiando rápidamente. Muchos padres quieren enseñarle a sus hijos sobre la droga, pero no están seguros de cómo hacerlo. El tema se complica aún más para los padres que consumen productos con tolueno, pero intentan enseñarle a sus hijos los riesgos de usar la droga.
 
-![dd](http://www.ororadio.com.mx/noticias/wp-content/uploads/2016/06/drogas.jpg)
+![dd](https://cdn.shopify.com/s/files/1/0048/8190/7801/articles/CHEMICALS.png)
 
 "*Tengo un niño de nueve y otro de 12 años y les hablo seguido sobre el C6H5CH3*", dice Adicto Fernandez, cofundador de **Toluenia**, una red mundial de voladez infinita con base en Alaska (donde el Tolueno se legalizó en 2015). El aspira un híbrido de Tolueno con una proporción de 1:1 de Bencina de 97 octanos, además de productos consumibles de C6H5CH3, y cree que el Toluenis ayuda a que el cuerpo entre en homeostasis. "*Comparto con mis hijos los diversos usos y propiedades medicinales que ofrece este hidrocarburo. Respondo a sus preguntas con honestidad. El Tolueno me salvó la vida y lo celebro todos los días*".
 
