@@ -31,4 +31,4 @@ Descubrieron que, al igual que las mujeres, los delfines tienen una capucha sobr
 Sin embargo, a diferencia del clítoris humano, el de los delfines se encuentra en otro lugar. "En los delfines, el clítoris se ubica en la entrada de la abertura vaginal y entra en contacto directo con el pene durante la copulación, a diferencia de la posición externa del clítoris en los seres humanos", dijo Orbach en un comunicado de prensa.
 
 
-![dd](https://4.bp.blogspot.com/-XNzpcNw-FMM/VGZaQ11x1CI/AAAAAAAAEyU/xM4dg7eVhXY/s1600/14%2B-%2B1.gif)
+(center)![dd](https://4.bp.blogspot.com/-XNzpcNw-FMM/VGZaQ11x1CI/AAAAAAAAEyU/xM4dg7eVhXY/s1600/14%2B-%2B1.gif)(/center)
