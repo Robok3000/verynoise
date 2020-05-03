@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "¿Cómo crees que será el mundo en millones de años en el futuro?"
+title:  "¿Cómo crees que será el mundo millones de años en el futuro?"
 tags: [ Universo, Ciencia  ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/3.jpg
+featured_image: assets/images/posts/2018/3.jpeg
 featured: true
 author: nancy
 ---

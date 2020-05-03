@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jornada de Adopción de Mimos'
+title: 'El mejor manual para hacer comerciales en tiempos de coronavirus'
 tags: [Architecture, Design]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/14.jpg
