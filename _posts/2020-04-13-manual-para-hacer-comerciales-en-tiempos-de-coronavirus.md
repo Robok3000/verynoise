@@ -7,4 +7,4 @@ featured_image: assets/images/posts/2018/14.jpg
 author: nancy
 ---
 
-La ONG "Un Mimo para Chile" realizará en el frontis de la Casa del Billete, una jornada de adopción de Mimos. Quienes quieran participar, deberám presentarse con sus papeles de antecedentes, sus ultimas cien liquidaciones de sueldo y una fotocopia de su carné, este sábado 19 a las 02:38 am.-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnanonetworks%2Fvideos%2F1148293198851851%2F&show_text=1&width=560" width="560" height="427" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>

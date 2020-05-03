@@ -3,7 +3,7 @@ layout: post
 title: 'Todo el mundo está hablando de Bitcoin'
 tags: [Photography, Tips]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/15.jpeg
+featured_image: assets/images/posts/2018/15.jpg
 author: daniel
 
 ---
