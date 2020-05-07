@@ -5,26 +5,24 @@ description: 'Todo el ruido que tu mente necesita'
 site_description: 'Un extenso catálogo de lo más bizarro que se ha cruzado por la internet'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl:
-production_url: https://forma.netlify.com/
+baseurl: https://verynoise.com/
+production_url: https://verynoise.com/
 disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url:
 # Add your GA Tracking Id
 ga_analytics:
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+email: pedrol@mego.cl
+contact_page_description: ""
+thankyou_page_description: "Su mensaje ha sido enviado con éxito. Nos contactaremos contigo muy pronto!"
 
 # Social links
-twitter: 'username'
+twitter: '@robok'
 facebook: 'username'
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
+github: '@robok3000'
 medium: '@username'
-instagram: 'username'
+instagram: '@robok3000'
 pinterest: 'username'
 linkedin: 'username'
 
