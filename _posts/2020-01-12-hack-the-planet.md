@@ -3,7 +3,7 @@ layout: post
 title: '#HackThePlanet Un nuevo sello de música electrónica con base en Chile'
 tags: [musica]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/13.jpeg
+featured_image: assets/images/posts/2018/13.jpg
 author: daniel
 ---
 
@@ -14,7 +14,7 @@ Es un sello de música electrónica con sede en Santiago, Chile. Su trabajo es i
 
 Su música habla a todas las almas perdidas que quieren unirse a ellos en la búsqueda de otros mundos.
 
-El lanzamiento más reciente del sello es del artista digital y fotocopiador estrella "Robok3000" el cual se describe así: 
+El lanzamiento más reciente del sello es del artista digital y fotocopiador estrella "Robok3000" el cual se describe así:
 
 ***Una viaje lleno de mutaciones alucinantes por los circuitos analogos del ensamble de maquinas vivientes de Robok3000, que disparan ritmos inteligentes y sonidos de otro planeta.***
 
