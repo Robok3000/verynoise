@@ -25,11 +25,11 @@ instagram: 'username'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: https://www.verynoise.com/about/
   - text: Style Guide
-    url: /style-guide/
+    url: https://www.verynoise.com/style-guide/
   - text: Contact Me
-    url: /contact/
+    url: https://www.verynoise.com/contact/
 
 # Required Plugins
 plugins_dir:
