@@ -3,7 +3,7 @@ layout: post
 title:  "¿Por qué La Legal es esencial para Chile"
 tags: [ web, humor ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/lalegal.jpeg
+featured_image: assets/images/posts/2018/lalegal.jpg
 author: Rubén
 ---
 
