@@ -5,7 +5,7 @@ description: 'Todo el ruido que tu mente necesita'
 site_description: 'Un extenso catálogo de lo más bizarro que se ha cruzado por la internet'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 production_url: https://www.verynoise.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
@@ -13,20 +13,14 @@ mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab160
 ga_analytics:
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+email: hola@verynoise.com
+contact_page_description: "Si tienes algo interesante que quieras promocionar o necesitas hablar conmigo, puedes enviarme un correo. Me interesan todas las ideas."
+thankyou_page_description: "Tu mensaje ya fue recibido por mi equipo de hamster. Te responderemos a la brevedad!"
 
 # Social links
 twitter: 'username'
 facebook: 'username'
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
 instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
 
 # Navigation
 navigation:

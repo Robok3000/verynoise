@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Mi nombre es Pedro Torrealba y quiero tu gurú de la entretención. Fui unos de los fundadores de Porlaputa.com y soy el Editor Supremo de La Legal. Este es mi pequeño refugio que quiero compartir con ustedes. Un espacio para intercambiar cosas interesantes que encontremos en la internet. Esto es tan solo una guía de links que te ayudará a sobrellevar la crisis en la que está viviendo el mundo. Ya nada volverá a ser como antes, hay que acostumbrarse a esa idea y prepararse al nuevo sistema de vida que se nos viene. Mi intención, es que la alegría nunca se acabe. Y si buscamos bien, podemos encontrarla por ahí.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+>Deberías disfrutar de los pequeños desvíos, disfrútalos mucho, porque de ese modo encontrarás aquello que es más importante que lo que querías. <cite>Gin Freecss</cite>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Si te interesa apoyarme de alguna forma, puedes hacerlo enviando tus ideas a hola@verynoise.com o si quieres puedes hacer tus donaciones en **Bitcoin** a la siguiente dirección: 3AKiBXuaJHKPXqVmrgpUCApBCcEVYPANdD
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+*Sean Bienvenid@s a este pequeño mundo!*
