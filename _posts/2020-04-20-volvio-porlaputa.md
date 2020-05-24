@@ -13,12 +13,17 @@ El sitio de memes más importante de la historia de la humanidad, volvió, pero 
 
 Porlaputa es un sitio que está en la mente de todos los chilenos. Sabemos que hay un porcentaje muy grande de chilenes que carecen de mentes. En su defecto, tienen un televisor metidos a presión. Pero los que lograron desenchufarse de esta maquina del infierno en los 2000, pudieron encontrar un sitio que abrió las puertas para que la cultura de los memes llegara al país. Primero comenzaron como un medio donde un grupo de amigos posteaba las cosas más extrañas, bizarras o divertidas que encontraban en internet. En ese internet donde no existía Facebook, o Twitter y Youtube estaba recién gestándose.
 
-##Cosas que hicieron brillar a Porlaputa:
+## Cosas que hicieron brillar a Porlaputa:
+
+### Comentarios
 
 Unas de las virtudes de ese sitio fueron los comentarios. **Viva la Mami!**
 ![comentarios](https://66.media.tumblr.com/tumblr_mdvcwtHhlC1qbqt8go2_1280.png)
 
 Otras cosas memorables fueron sus fiestas y toda la locura que ocurrían en esos lugares.
+
+### Fiestas
+
 ![Fiestas](https://66.media.tumblr.com/tumblr_mdtawgTeed1qbqt8go1_400.png)
 
 ![Fiesta 2](https://elsafari.files.wordpress.com/2012/06/flyers.jpg?w=640)
@@ -26,6 +31,8 @@ Otras cosas memorables fueron sus fiestas y toda la locura que ocurrían en esos
 ![Fiesta 3](https://loud.cl/wp-content/uploads/2011/05/viernes3clubflairlogos1.jpg)
 
 ![dd](https://photos1.blogger.com/blogger/3148/3371/1600/plp_cumple_flyer.jpg)
+
+### Fans
 
 También, Porlaputa.com fue unos de los sitios pioneros en introducir Bitcoin en la plataforma como una manera de acercar a las personas a esta revolucionaria tecnología.
 

@@ -15,7 +15,7 @@ Aún con esa misión de desenmascarar esta cruda verdad, lo absurdo de su conten
 
 Mi teoría tiene que ver con que apareció en un momento en que los chilenos estaban despertando y dándose cuenta de las injusticias que se viven y que son generadas desde los distintos poderes que nos gobiernan. Poderes que se han ido desmoronando porque todo lo construyeron sobre una frágil idea de normalidad. Frágil, porque ya vimos como en cosas de días, esta normalidad fue fracturada y lo que antes parecía ser una fortaleza, ahora se mostraba como una desarticulada organización que no le quedó más que aplicar la fuerza bruta para volver a la normalidad. ¿Y qué tiene que ver La Legal con todo esto? Simplemente fue unos de los medios que ayudó a desenmascarar esta ilusión. De manera inteligente, con titulares que parecían un buen chiste, pero que en el fondo estaban gritando una gran verdad. Por eso es que La Legal es esencial para los chilenos y es por eso que existe un medio como La Legal en algunos países, porque es una válvula de escape para toda esta olla a presión que son los países.
 
-##Y para muestra un botón:
+## Y para muestra un botón:
 
 Este es un breve resumen de lo mejor de estos 7 años de La Legal:
 
