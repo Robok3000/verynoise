@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Cómo decirle a tus hijos que te encanta el tolueno?"
-tags: [ Jekyll, Development ]
+tags: [ Tolueno, Drogas ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/9.jpg
 author: Nuel

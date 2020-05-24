@@ -9,7 +9,7 @@ author: nancy
 ---
 
 
-Alguna vez te pusiste a pensar qué pasara con nuestro mundo un millón de años en el futuro. Logra la imaginación llegar tan lejos. Después de ver este video me di cuenta que la ciencia está muy por encima de todo lo que creemos que existe.
+Alguna vez te pusiste a pensar qué pasara con nuestro mundo un millón de años en el futuro. Logrará la imaginación llegar tan lejos. Después de ver este video me di cuenta que la ciencia está muy por encima de todo lo que creemos que existe.
 
 Vayan a fumarse un pito, busquen algo para picotear y vean este video. Les aseguro que van a ver la vida con otros ojos.
 
