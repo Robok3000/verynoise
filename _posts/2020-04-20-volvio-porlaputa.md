@@ -32,11 +32,13 @@ Otras cosas memorables fueron sus fiestas y toda la locura que ocurrían en esos
 
 ![dd](https://photos1.blogger.com/blogger/3148/3371/1600/plp_cumple_flyer.jpg)
 
-### Fans
+### PLP Bitcoin
 
 También, Porlaputa.com fue unos de los sitios pioneros en introducir Bitcoin en la plataforma como una manera de acercar a las personas a esta revolucionaria tecnología.
 
 ![Bitcoin](https://pbs.twimg.com/media/CI1EMMzWwAQrZPt.png)
+
+### Fans
 
 Y los fans, los miles y miles de fans que tiene esta página y que lo demostraban haciendo hermosos artes:
 
