@@ -10,7 +10,7 @@ production_url: https://www.verynoise.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a19910f03ffd&amp;id=ed71eafa26'
 # Add your GA Tracking Id
-ga_analytics:
+ga_analytics: 'UA-50933804-20'
 
 # Contact form setings
 email: hola@verynoise.com
