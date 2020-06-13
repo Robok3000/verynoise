@@ -7,11 +7,19 @@ featured_image: assets/images/posts/2018/12.jpg
 author: Rubén
 ---
 
-El sitio de memes más importante de la historia de la humanidad, volvió, pero no en forma de fichas, sino de la misma forma que lo hemos conocido durante más de 15 años: un infinito meme.
+# ¿Qué es Porlaputa?
+
+El sitio de memes más importante de la historia de la humanidad, volvió, pero no en forma de fichas, sino de la misma forma que lo hemos conocido durante más de 15 años: un infinito y sabroso meme.
 
 *Sabían que el dominio Porlaputa.com fue comprado en el 2006?*
 
-Porlaputa es un sitio que está en la mente de todos los chilenos. Sabemos que hay un porcentaje muy grande de chilenes que carecen de mentes. En su defecto, tienen un televisor metidos a presión. Pero los que lograron desenchufarse de esta maquina del infierno en los 2000, pudieron encontrar un sitio que abrió las puertas para que la cultura de los memes llegara al país. Primero comenzaron como un medio donde un grupo de amigos posteaba las cosas más extrañas, bizarras o divertidas que encontraban en internet. En ese internet donde no existía Facebook, o Twitter y Youtube estaba recién gestándose.
+[Porlaputa](https://porlaputa.com) es un sitio que está en la mente de todos los chilenos. Sabemos que hay un porcentaje muy grande de chilenes que carecen de mentes. En su defecto, tienen un televisor metidos a presión. Pero los que lograron desenchufarse de esta maquina del infierno en los 2000, pudieron encontrar un sitio que abrió las puertas para que la cultura de los memes llegara al país. Primero comenzaron como un medio donde un grupo de amigos posteaba las cosas más extrañas, bizarras o divertidas que encontraban en internet. En ese internet donde no existía Facebook, o Twitter y Youtube estaba recién gestándose.
+
+Los números de Porlaputa en la actualidad:
+
+81069 usuarios registrados
+732927 posts
+11365 visitas únicas en las ultimas 24 horas
 
 ## Cosas que hicieron brillar a Porlaputa:
 

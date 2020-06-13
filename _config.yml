@@ -2,20 +2,20 @@
 name: 'VeryNOISE'
 description: 'Todo el ruido que tu mente necesita'
 # Sidebar about text
-site_description: 'Un extenso catálogo de lo más bizarro que se ha cruzado por la internet'
+site_description: 'Un catálogo de cosas entretenidas e interesantes que se me han cruzado por la internet'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://www.verynoise.com/
 disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a19910f03ffd&amp;id=ed71eafa26'
 # Add your GA Tracking Id
 ga_analytics:
 
 # Contact form setings
 email: hola@verynoise.com
 contact_page_description: "Si tienes algo interesante que quieras promocionar o necesitas hablar conmigo, puedes enviarme un correo. Me interesan todas las ideas."
-thankyou_page_description: "Tu mensaje ya fue recibido por mi equipo de hamster. Te responderemos a la brevedad!"
+thankyou_page_description: "Tu mensaje ya fue recibido por mi hamster. Te responderá a la brevedad!"
 
 # Social links
 twitter: 'username'
