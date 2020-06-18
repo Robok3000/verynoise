@@ -3,7 +3,7 @@ layout: post
 title:  "Hubo un tiempo en que me las di de DJ"
 tags: [ web, humor ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/robok.png
+featured_image: assets/images/posts/2018/robok.jpg
 author: Rubén
 ---
 

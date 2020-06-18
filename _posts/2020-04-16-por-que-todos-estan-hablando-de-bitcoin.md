@@ -8,6 +8,6 @@ author: daniel
 
 ---
 
-La caída de los bancos es innevitable. Eso es lo que muchos quieren creer. O quizás tienen una teoría al respecto. Mi teoría es Bitcoin. Y este video explica el por qué:
+La caída de los bancos es inevitable. Eso es lo que muchos quieren creer. O quizás tienen una teoría al respecto. Mi teoría es Bitcoin. Y este video explica el por qué:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKwqNgG-Sv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
