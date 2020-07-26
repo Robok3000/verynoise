@@ -4,7 +4,6 @@ title:  "¿Quién gana? Robocop o Terminator"
 tags: [ web, videojuegos ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/robotpelea.jpg
-featured: true
 author: Rubén
 ---
 

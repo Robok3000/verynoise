@@ -4,7 +4,6 @@ title: 'La Cuarentena de Ricardo Milos'
 tags: [Meme]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/ricardo.jpg
-featured: true
 author: daniel
 ---
 
