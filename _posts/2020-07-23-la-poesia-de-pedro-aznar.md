@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Las cosas por su nombre'
-tags: [Meme]
+tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/pedroaznar.jpg
 featured: true

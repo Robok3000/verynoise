@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '¿Quiénes son Medio Hermano?'
-tags: [Meme]
+tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/mediohermano.jpg
 featured: true
