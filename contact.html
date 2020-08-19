@@ -13,7 +13,7 @@ title: Contact Me
   <main id="main" class="site-main inner">
     <div class="entry-content">
       <header class="entry-header">
-      <h1 class="entry-title">Cantactame</h1>
+      <h1 class="entry-title">Cantáctame</h1>
       </header>
       {% if site.contact_page_description %}
         <p>{{ site.contact_page_description }}</p>
@@ -23,17 +23,17 @@ title: Contact Me
         <form action="https://formspree.io/{{ site.email }}" method="post" id="contact-form">
           <div class="form-item">
             <label class="form-label">Tu Email, por favor <span>(required)</span></label>
-            <input type="text" name="email" placeholder="Your email address..." class="form-input" />
+            <input type="text" name="email" placeholder="Escribe tu correco electrónico aquí..." class="form-input" />
           </div>
 
           <div class="form-item">
-            <label class="form-label">Tu Fuking nombre <span>(required)</span></label>
-            <input type="text" name="name" placeholder="Your name..." class="form-input" />
+            <label class="form-label">Ahora tu nombre <span>(required)</span></label>
+            <input type="text" name="name" placeholder="Ahora escríbe tu nombre..." class="form-input" />
           </div>
 
           <div class="form-item">
             <label class="form-label">Tu hermoso mensaje<span>(required)</span></label>
-            <textarea name="message" placeholder="Your message..." class="form-textarea"></textarea>
+            <textarea name="message" placeholder="Y acá va tu lindo mensaje..." class="form-textarea"></textarea>
           </div>
 
           <input type="hidden" name="_next" value="/thank-you" />
@@ -41,7 +41,7 @@ title: Contact Me
           <input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="" />
 
           <div class="form-item">
-            <input type="submit" value="Send Message" class="button" />
+            <input type="submit" value="Enviar Mensaje" class="button" />
           </div>
         </form>
       </section>
