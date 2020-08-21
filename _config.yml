@@ -2,7 +2,7 @@
 name: 'VeryNOISE'
 description: 'Todo el ruido que tu mente necesita'
 # Sidebar about text
-site_description: 'Un catálogo de cosas entretenidas e interesantes que se me han cruzado por la internet'
+site_description: 'Una revista enfocada en la nueva música que surje de todos los rincones de este universo'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl:
@@ -15,7 +15,7 @@ ga_analytics: 'UA-50933804-20'
 # Contact form setings
 email: hola@verynoise.com
 contact_page_description: "Si tienes algo interesante que quieras promocionar o necesitas hablar conmigo, puedes enviarme un correo. Me interesan todas las ideas."
-thankyou_page_description: "Tu mensaje ya fue recibido por mi hamster. Te responderá a la brevedad!"
+thankyou_page_description: "Tu mensaje ya fue recibido por nuestro hamster dj. Te responderá a la brevedad!"
 
 # Social links
 twitter: 'verynoise_com'

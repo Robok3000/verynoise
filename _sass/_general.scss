@@ -11,7 +11,7 @@ textarea {
 }
 
 body {
-    background-color: #fff;
+    background-image: url(../images/bgwhite.png);
     color: $gray-dark;
     line-height: 1.75;
     overflow-x: hidden;
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: $black;
+    color: $gray-dark;
     font-weight: bold;
     line-height: 1.2;
 }
