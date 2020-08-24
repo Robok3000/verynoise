@@ -7,7 +7,7 @@ logo:
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://www.verynoise.com/
-disqus: 'justgoodthemes'
+disqus: 'verynoise'
 mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a19910f03ffd&amp;id=ed71eafa26'
 # Add your GA Tracking Id
 ga_analytics: 'UA-50933804-20'

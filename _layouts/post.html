@@ -97,7 +97,7 @@ post_class: post-template
             {% if page.previous.url %}
             <div class="nav-previous">
                 <a href="{{ site.baseurl }}{{page.previous.url}}" class="nav-inside">
-                    <span class="nav-before">Previous post</span>
+                    <span class="nav-before">Post Anterior</span>
                     <span class="nav-title">{{page.previous.title}}</span>
                     <span class="nav-meta">{{page.previous.date
                     | date: "%B %-d, %Y"}}</span>
@@ -113,7 +113,7 @@ post_class: post-template
             {% if page.next.url %}
             <div class="nav-next">
                 <a href="{{ site.baseurl }}{{page.next.url}}" class="nav-inside">
-                    <span class="nav-before">Next post</span>
+                    <span class="nav-before">Próximo Post</span>
                     <span class="nav-title">{{page.next.title}}</span>
                     <span class="nav-meta">{{page.next.date
                                     | date: "%B %-d, %Y"}}</span>
