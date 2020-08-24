@@ -1,18 +1,18 @@
 daniel:
-  username: daniel
-  name: Daniel Botella
-  url_full: https://justgoodthemes.com/
-  url: justgoodthemes.com
-  bio: Daniel es un diseñador curioso que se diseñó al él mismo a su imagen y semejanza. Hoy es reconocido por parecerse a él mismo y se dice que también se parece a Dios.
-  picture: /assets/images/daniel.jpg
-  facebook: justgoodthemes
-  twitter: justgoodthemes
-nancy:
-  username: nancy
-  name: Nancy Pelusa
-  url_full: https://justgoodthemes.com/
-  url: justgoodthemes.com
-  bio: Nancy es una reportera que logro su estrellato luego de estrellarse contra una estrella. Ha obtenido numerosos premios en concursos que ella misma ha inventado.
-  picture: /assets/images/nancy.jpg
+  username: Piter
+  name: Pedro Torrealba
+  url_full: https://lalegal.news
+  url: lalegal.news
+  bio: Soy unos de los fundadores de Porlaputa.com y LaLegal.news y creador de este sitio que espero sirva de trampolín para que la nueva música se viralice y se propage por el universo.
+  picture: /assets/images/pedro.jpg
   facebook: False
-  twitter: justgoodthemes
+  twitter: Robok
+nancy:
+  username: Linda
+  name: Linda Montserrat Soto Canales
+  url_full: https://twitter.com/Linda_MSC
+  url:
+  bio: Soy una ex integrante de los Rolling Stone.
+  picture: /assets/images/linda.jpg
+  facebook: False
+  twitter: Linda_MSC
