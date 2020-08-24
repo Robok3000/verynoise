@@ -5,7 +5,7 @@ tags: [ humor ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/luthiers.png
 featured: true
-author: Rubén
+author: Piter
 ---
 
 Este es un pequeño e insignificante homenaje a unos de los grupos humanos que más admiro. Gracias por todo lo que le han entregado a esta humanidad.

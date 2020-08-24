@@ -5,7 +5,7 @@ tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/mediohermano.jpg
 featured: true
-author: daniel
+author: Piter
 ---
 
 

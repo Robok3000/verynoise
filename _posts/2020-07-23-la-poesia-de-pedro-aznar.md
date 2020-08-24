@@ -5,7 +5,7 @@ tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/pedroaznar.jpg
 featured: true
-author: daniel
+author: Piter
 ---
 
 Algo que tengo que agradecerle a esta cuarentena, es mi reencuentro con Pedro Aznar y el reencuentro mismo del artista con su público. Desde la sencillez y desde lo más profundo de su corazón, el artista ha regalado momentos muy hermosos que logran calmar y serenar a cualquiera. Vivimos confinados y separados unos de otros, pero aún así, hay quienes logran conectar y destruir cualquier barrera que se nos imponga. Quizás es unos de los pocos artistas que logró conectarse de forma íntima con sus seguidores: haciendo lives desde Facebook, dándole al mundo un poco de esperanza y belleza, a pesar de todo el caos que reina nuestro mundo.  

@@ -4,7 +4,7 @@ title: '#HackThePlanet Un nuevo sello de música electrónica con base en Chile'
 tags: [musica]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/13.jpg
-author: daniel
+author: Piter
 ---
 
 # HackThePlanet

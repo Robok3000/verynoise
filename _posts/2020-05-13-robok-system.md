@@ -4,7 +4,7 @@ title:  "Hubo un tiempo en que me las di de DJ"
 tags: [ web, humor ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/robok.jpg
-author: Rubén
+author: Piter
 ---
 
 Buscando en el baúl de los recuerdos, encontré este Dj SET que refleja mis ganas actuales de subirme a un Delorean y viajar por el tiempo, quizás iría a los años 80´s donde se crearon las cosas más asombrosas de la era moderna.
