@@ -36,26 +36,29 @@ Los accidentes nucleares de Fukushima y Chernobyl, la carrera espacial, la guerr
 
 Voivod, Kraftwerk, Einstürzende Neubauten y Atari Teenage Riot abrieron mi mente durante mi adolescencia en el sur de Chile. Hoy me inspira mucho el trabajo de Varg2™ y Phurpa.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PuGnaiKB2Fo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### ¿Si hicieran un documental de tu vida cuáles son las 5 canciones que no deberían faltar en el soundtrack?
 
-Suicide - Deam Baby Dream
-Kraftwerk - Numbers
-Brian Eno - Here Come The Warm Jets
-Underworld - Born Slippy
-Space  - Magic Fly
+- Suicide - Deam Baby Dream
+- Kraftwerk - Numbers
+- Brian Eno - Here Come The Warm Jets
+- Underworld - Born Slippy
+- Space  - Magic Fly
 
 
 ### ¿Si tuvieras toda la plata del mundo, cuál sería tu line up de 7 djs/bandas para la mejor fiesta del mundo y dónde la harías?
 
 Este sería mi line-up:
-Aphex Twin
-Sunn O)))
-Merzbow
-999999999
-The Empire Line
-Phurpa
-MCMLXXXV
+
+- Aphex Twin
+- Sunn O)))
+- Merzbow
+- 999999999
+- The Empire Line
+- Phurpa
+- MCMLXXXV
 
 ### ¿Cuál es el libro que más te ha gustado?
 
@@ -76,8 +79,8 @@ MCMLXXXV
 
 <blockquote class="alignright">Nuestro presente se terminó convirtiendo en un futuro distópico. Fue una profecía autocumplida.<cite>― Carlos.00000000001</cite></blockquote>
 
-
-
+### ¿Qué te gustaría decirle al mundo?
+👍
 
 ## Sus redes sociales
 
