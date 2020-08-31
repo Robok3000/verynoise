@@ -9,7 +9,7 @@ author: Piter
 ---
 
 
-Carlos.00000000001 es un artista del sello [#HackThePlanet](https://hacktheplanet.cl/) y nos envió un mensaje vía satélite para invitarnos a conocer su música. Tómense una pastilla y difruten este viaje interespacial.
+[Carlos.00000000001](https://www.instagram.com/carlos.00000000001/) es un artista del sello [#HackThePlanet](https://hacktheplanet.cl/) y nos envió un mensaje vía satélite para invitarnos a conocer su música. Tómense una pastilla y difruten este viaje interespacial.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrrD910mr2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -17,10 +17,14 @@ Carlos.00000000001 es un artista del sello [#HackThePlanet](https://hacktheplane
 
 # Quién es Carlos.00000000001
 
-Es un artista que se define como un productor de <mark>Bedroom Techno.</mark> y que dirige su musica a toda la gente que durante la pandemia ha estado bailando sola en su.
+Es un artista que se define como un productor de <mark>Bedroom Techno.</mark> y que dirige su música a toda la gente que durante la pandemia ha estado bailando sola en su pieza.
+
+### Qué es el Bedroom Techno
+
+Es hacer tecno desde la comodidad de tu pieza. Sin la necesidad de grandes equipos de grabación. Sólo lo que tienes a mano y listo.
 
 
-<blockquote class="alignleft">“Estamos viviendo la distopia de nuestras peores pesadillas” <cite>- Carlos00000000001 </cite></blockquote>
+<blockquote class="alignleft">“Estamos viviendo la distopía de nuestras peores pesadillas” <cite>- Carlos00000000001 </cite></blockquote>
 
 Es parte del colectivo #HackThePlanet, sello de música electrónica con base en Santiago de Chile. Ya tiene a su haber 3 singles llenos de sintetizadores y estridencia que te aceleran como si estuvieras despegando desde Cabo Cañaveral.
 
@@ -84,10 +88,10 @@ Este sería mi line-up:
 
 ## Sus redes sociales
 
-Instagram: [@carlos00000000001](https://www.instagram.com/carlos00000000001/)
+Instagram: [@carlos.00000000001](https://www.instagram.com/carlos.00000000001/)
 
-Spotify: [Carlos00000000001](https://open.spotify.com/artist/4PJ4G8UaYP54wio17sSwOb?si=q0cUPg7hR1CEDo_OZXwWsw)
+Spotify: [Carlos.00000000001](https://open.spotify.com/artist/4PJ4G8UaYP54wio17sSwOb?si=q0cUPg7hR1CEDo_OZXwWsw)
 
-Apple Music: [Carlos00000000001](https://music.apple.com/us/artist/carlos-00000000001/1502783736)
+Apple Music: [Carlos.00000000001](https://music.apple.com/us/artist/carlos-00000000001/1502783736)
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4257418013/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://carlos0001.bandcamp.com/track/watchman">Watchman by Carlos.00000000001</a></iframe>
