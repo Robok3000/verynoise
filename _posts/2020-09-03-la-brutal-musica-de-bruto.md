@@ -9,7 +9,7 @@ author: Piter
 ---
 
 
-[Bruto](https://www.instagram.com/Brutorock/) es una banda de rock que se caracteriza por la potencia de sus presentaciones en vivo, donde su energía es capaz que
+[Bruto](https://www.instagram.com/Brutorock/) es una banda de rock que se caracteriza por la potencia de sus presentaciones en vivo, donde su brutal música es capaz de demoler cualquier tipo de construcción. 
 
 
 # Qué es Bruto
@@ -35,7 +35,6 @@ The Fall of Troy. O también a Deftones, ese sería un sueño lindo de cumplir.
 
 ![BRUTO](https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/85092655_2981864988501728_2002132020444004352_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=0upQ3HvMucgAX8YKa43&_nc_ht=scontent.fscl15-1.fna&oh=84adfa537191723565abc6c9227eb87c&oe=5F7A8FEA)
 
-<blockquote class="alignright">“Me cago de hambre, cocino se quema, limpiando trago, salado me queda... Se pasa la micro, la paro no frena, gritando puteo es larga la espera...” <cite>- BRUTO </cite></blockquote>
 
 ### ¿Si los invitaran a hacer el soundtrack de una película que se trate sobre el fin del sistema, aparte de la música de ustedes, que covers incluirían?
 
@@ -47,6 +46,8 @@ Tiene que ir en las últimas escenas de la película, cuando todo se empiece a i
 ### ¿Cómo es el rock en Chile?
 
 Como todas las artes, no se le da el peso que debiese. Al rock en Chile le sobra jale y le falta humildad.
+
+<blockquote class="alignright">“Me cago de hambre, cocino se quema, limpiando trago, salado me queda... Se pasa la micro, la paro no frena, gritando puteo es larga la espera...” <cite>- BRUTO </cite></blockquote>
 
 
 ### ¿Si se ganaran un premio y pueden elegir el instrumento musical de sus sueños, cuáles elegirían?
