@@ -3,27 +3,21 @@ layout: post
 title: 'La Brutal música de Bruto'
 tags: [Música]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/brutal.jpg
+featured_image: assets/images/posts/2018/bruto.jpg
 featured: true
 author: Piter
 ---
 
 
-[Brutal](https://www.instagram.com/Brutorock/) es una banda de rock que se caracteriza por la potencia de sus presentaciones en vivo, donde su energía es capaz que
-
-
-
-BRUTO es una banda de rock residente en Santiago (Chile). Bruto es la mezcla de todas las influencias musicales que han pasado por nuestros oídos y cerebros. Iniciada a mediados del 2009, cuenta con 2 discos a su haber y con una basta experiencia en el circuito musical capitalino y regional, habiéndose presentado en festivales, bares e importantes encuentros musicales. Si hay algo que caracteriza a BRUTO, más que su ecléctico sonido son sus presentaciones en vivo, donde cada riff, cada golpe y cada palabra sale como si la vida se nos fuera en eso. Porque un bruto no solo nace, si no que se hace arriba y abajo del escenario. La experiencia de ver a la banda en vivo es única y potente
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrrD910mr2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Bruto](https://www.instagram.com/Brutorock/) es una banda de rock que se caracteriza por la potencia de sus presentaciones en vivo, donde su energía es capaz que
 
 
 # Qué es Bruto
 
-BRUTO es una banda de rock residente en Santiago (Chile). Bruto es la mezcla de todas las influencias musicales que han pasado por nuestros oídos y cerebros. Iniciada a mediados del 2009, cuenta con 2 discos a su haber y con una basta experiencia en el circuito musical capitalino y regional, habiéndose presentado en festivales, bares e importantes encuentros musicales. Si hay algo que caracteriza a BRUTO, más que su ecléctico sonido son sus presentaciones en vivo, donde cada riff, cada golpe y cada palabra sale como si la vida se nos fuera en eso. Porque un bruto no solo nace, si no que se hace arriba y abajo del escenario. La experiencia de ver a la banda en vivo es única y potente
+BRUTO es una banda de rock residente en Santiago (Chile). Bruto es la mezcla de todas las influencias musicales que han pasado por nuestros oídos y cerebros. Iniciada a mediados del 2009, cuenta con 2 discos a su haber y con una basta experiencia en el circuito musical capitalino y regional, habiéndose presentado en festivales, bares e importantes encuentros musicales. Si hay algo que caracteriza a BRUTO, más que su ecléctico sonido son sus presentaciones en vivo, donde cada riff, cada golpe y cada palabra sale como si la vida se nos fuera en eso. Porque un bruto no solo nace, si no que se hace arriba y abajo del escenario. La experiencia de ver a la banda en vivo es única y potente.
 
-![BRUTO](https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/85092655_2981864988501728_2002132020444004352_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=0upQ3HvMucgAX8YKa43&_nc_ht=scontent.fscl15-1.fna&oh=84adfa537191723565abc6c9227eb87c&oe=5F7A8FEA)
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBrutorock%2Fvideos%2F171648347614978%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 
 ### ¿Cómo definirían la música que hacen?
 
@@ -38,6 +32,8 @@ Es parte del colectivo #HackThePlanet, sello de música electrónica con base en
 ### ¿Si tuvieran que telonear a una banda cuál sería?
 
 The Fall of Troy. O también a Deftones, ese sería un sueño lindo de cumplir.
+
+![BRUTO](https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/85092655_2981864988501728_2002132020444004352_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=0upQ3HvMucgAX8YKa43&_nc_ht=scontent.fscl15-1.fna&oh=84adfa537191723565abc6c9227eb87c&oe=5F7A8FEA)
 
 <blockquote class="alignright">“Me cago de hambre, cocino se quema, limpiando trago, salado me queda... Se pasa la micro, la paro no frena, gritando puteo es larga la espera...” <cite>- BRUTO </cite></blockquote>
 
