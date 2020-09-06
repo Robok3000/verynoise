@@ -9,7 +9,7 @@ author: Piter
 ---
 
 
-[Bruto](https://www.instagram.com/Brutorock/) es una banda de rock que se caracteriza por la potencia de sus presentaciones en vivo, donde su brutal música es capaz de demoler cualquier tipo de construcción. 
+[Bruto](https://www.instagram.com/Brutorock/) es una banda de rock que se caracteriza por la potencia de sus presentaciones en vivo, donde su brutal música es capaz de demoler cualquier tipo de construcción.
 
 
 # Qué es Bruto
@@ -47,7 +47,7 @@ Tiene que ir en las últimas escenas de la película, cuando todo se empiece a i
 
 Como todas las artes, no se le da el peso que debiese. Al rock en Chile le sobra jale y le falta humildad.
 
-<blockquote class="alignright">“Me cago de hambre, cocino se quema, limpiando trago, salado me queda... Se pasa la micro, la paro no frena, gritando puteo es larga la espera...” <cite>- BRUTO </cite></blockquote>
+<blockquote class="aligncenter">“Me cago de hambre, cocino se quema, limpiando trago, salado me queda... Se pasa la micro, la paro no frena, gritando puteo es larga la espera...” <cite>- BRUTO </cite></blockquote>
 
 
 ### ¿Si se ganaran un premio y pueden elegir el instrumento musical de sus sueños, cuáles elegirían?
