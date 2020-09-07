@@ -27,7 +27,6 @@ BRUTO es una banda de rock residente en Santiago (Chile). Bruto es la mezcla de 
 
 <blockquote class="alignleft">“Escribo, se borra, me faltan palabras, nada se arma no rima no suena...” <cite>- BRUTO </cite></blockquote>
 
-Es parte del colectivo #HackThePlanet, sello de música electrónica con base en Santiago de Chile. Ya tiene a su haber 3 singles llenos de sintetizadores y estridencia que te aceleran como si estuvieras despegando desde Cabo Cañaveral.
 
 ### ¿Si tuvieran que telonear a una banda cuál sería?
 
