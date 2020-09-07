@@ -27,7 +27,6 @@ BRUTO es una banda de rock residente en Santiago (Chile). Bruto es la mezcla de 
 
 <blockquote class="alignleft">“Escribo, se borra, me faltan palabras, nada se arma no rima no suena...” <cite>- BRUTO </cite></blockquote>
 
-
 ### ¿Si tuvieran que telonear a una banda cuál sería?
 
 The Fall of Troy. O también a Deftones, ese sería un sueño lindo de cumplir.
@@ -77,13 +76,15 @@ Ver a gente en el público que no conoces y que nunca había visto a la banda, e
 
 ## Sus redes sociales
 
-📸 Instagram: [BRUTO](https://www.instagram.com/Brutorock/)
+📸 [Instagram:](https://www.instagram.com/Brutorock/)
 
-🎙 Spotify: [BRUTO](https://open.spotify.com/artist/66OXwcgHZpagzKkjkzQF4f)
+🎙 [Spotify:](https://open.spotify.com/artist/66OXwcgHZpagzKkjkzQF4f)
 
-📚 Facebook: [BUTO](https://www.facebook.com/Brutorock/)
+📚 [Facebook:](https://www.facebook.com/Brutorock/)
 
-⛺Bandcamp: [BRUTO](http://bruto.bandcamp.com/)
+🦆 [Twitter:](https://twitter.com/brutorock) 
+
+⛺[Bandcamp:](http://bruto.bandcamp.com/)
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3608631657/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://bruto.bandcamp.com/album/b">B by BRUTO</a></iframe>
 
