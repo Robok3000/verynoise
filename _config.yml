@@ -6,7 +6,7 @@ site_description: 'Una revista enfocada en la nueva música que surje de todos l
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: /verynoise/
-production_url: www.verynoise.com
+production_url: https://www.verynoise.com/
 disqus: 'verynoise'
 mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a19910f03ffd&amp;id=ed71eafa26'
 # Add your GA Tracking Id
