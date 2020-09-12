@@ -5,7 +5,7 @@ description: 'Todo el ruido que tu mente necesita'
 site_description: 'Una revista enfocada en la nueva música que surje de todos los rincones de este universo'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: /verynoise/
+baseurl: 
 production_url: https://www.verynoise.com/
 disqus: 'verynoise'
 mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a19910f03ffd&amp;id=ed71eafa26'
