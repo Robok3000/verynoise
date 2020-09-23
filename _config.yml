@@ -2,7 +2,7 @@
 name: 'VeryNOISE'
 description: 'Todo el ruido que tu mente necesita'
 # Sidebar about text
-site_description: 'Una revista enfocada en la nueva música que surje de todos los rincones de este universo'
+site_description: 'Un blog de música dedicado a la difusión de proyectos independientes latinoamericanos'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl:
