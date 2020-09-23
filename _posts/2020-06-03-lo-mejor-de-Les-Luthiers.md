@@ -4,7 +4,6 @@ title:  "Lo mejor de Les Luthiers"
 tags: [ humor ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/luthiers.png
-featured: true
 author: Piter
 ---
 

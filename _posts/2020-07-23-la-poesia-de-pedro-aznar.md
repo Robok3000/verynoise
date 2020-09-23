@@ -4,7 +4,6 @@ title: 'Las cosas por su nombre'
 tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/pedroaznar.jpg
-featured: true
 author: Piter
 ---
 

@@ -5,7 +5,7 @@ description: 'Todo el ruido que tu mente necesita'
 site_description: 'Un blog de música dedicado a la difusión de proyectos independientes latinoamericanos'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl:
+baseurl: 
 production_url: https://www.verynoise.com/
 disqus: 'verynoise'
 mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a19910f03ffd&amp;id=ed71eafa26'
@@ -13,7 +13,7 @@ mailchimp_url: '//verynoise.us8.list-manage.com/subscribe/post?u=be9009537a869a1
 ga_analytics: 'UA-50933804-20'
 
 # Contact form setings
-email: hola@verynoise.com
+email: hello@verynoise.com
 contact_page_description: "Si tienes algo interesante que quieras promocionar o necesitas hablar conmigo, puedes enviarme un correo. Me interesan todas las ideas."
 thankyou_page_description: "Tu mensaje ya fue recibido por nuestro hamster dj. Te responderá a la brevedad!"
 
