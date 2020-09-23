@@ -82,4 +82,5 @@ Cuidémonos más entre todis xfa :(
 
 🎙 [Spotify de Falleció](https://open.spotify.com/track/3mrolbAM3egqGGIvMKDE2m)
 
-![duo Falleció](https://scontent.fscl28-1.fna.fbcdn.net/v/t1.0-9/103980113_1589624004569938_8358691489019040005_o.jpg?_nc_cat=107&_nc_sid=cdbe9c&_nc_ohc=YIephfMCp_8AX_YAGtJ&_nc_ht=scontent.fscl28-1.fna&oh=a48fa4e90a64dd88209672111633a864&oe=5F90DD41)
+![duo Falleció vía Sintetica](https://scontent.fscl28-1.fna.fbcdn.net/v/t1.0-9/103980113_1589624004569938_8358691489019040005_o.jpg?_nc_cat=107&_nc_sid=cdbe9c&_nc_ohc=YIephfMCp_8AX_YAGtJ&_nc_ht=scontent.fscl28-1.fna&oh=a48fa4e90a64dd88209672111633a864&oe=5F90DD41)
+[Foto x sintética](https://www.facebook.com/sinteticatv/)
