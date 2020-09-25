@@ -55,13 +55,15 @@ Blonde redhead, javiera mena, karin dreijer, sade, little dragon,  ELO
 
 ### ¿Qué artista nueva/o le recomendarías a la gente?
 
-A conocer el eslabón perdido y sacarnos de la duda de si somos mitad alien o no.
+Amamos y envidiamos la intensidad performática de Florerito de mesa y escuchamos mucho el disco errorws de tipeo de la violeta castillo, pero no es tan nueva.
 
 <blockquote class="center">“final con un principio, deja que me acueste acá” <cite>- Faleció </cite></blockquote>
 
 ### ¿Si pudieran viajar en el tiempo, a dónde irían?
 
-Amamos y envidiamos la intensidad performática de Florerito de mesa y escuchamos mucho el disco errorws de tipeo de la violeta castillo, pero no es tan nueva.
+A conocer el eslabón perdido y sacarnos de la duda de si somos mitad alien o no.
+
+
 
 ### ¿Cómo se imaginan el mundo en 20 años más?
 
