@@ -9,7 +9,7 @@ author: Piter
 ---
 
 
-Medio Hermano es una cuarteto chileno que viene metiendo ruido desde el 2014 y que se ha consolidado con el pasar de los años, gracias a la belleza de sus canciones y la energía que entregan en el escenario, llegando a realizar tocatas en locales santiaguinos como el Bar Loreto, además de tocar en diferentes ciudades de Sudamérica como Antofagasta, Valparaíso, Rosario, La Plata y también en Lima.
+Medio Hermano es una cuarteto chileno que viene metiendo ruido desde el 2014 y que se ha consolidado con el pasar de los años, gracias a la belleza de sus canciones y la energía que entregan en el escenario, llegando a realizar tocatas en locales santiaguinos como el Bar Loreto, además de tocar en diferentes ciudades de Sudamérica como Antofagasta, Valparaíso, Rosario, La Plata y también en Lima. Se les puede definir como una banda IndiePop con un sonido muy propio y distintivo.
 
 La banda actualmente está compuesta por:
 
@@ -26,6 +26,10 @@ Si tuviera que describir sus canciones, las describiría presentando su último 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pfTDXEGYSZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >"Es un trabajo que explora ciertos sentimientos que estamos experimentando hoy, como querer ver a alguien representado en la búsqueda de las cajitas de leche en 'Coffee & TV' de Blur; o la analogía inversa a 'The Bitter Sweet Symphony', donde Richard Ashcroft camina en una sola línea, sin importar el roce, a diferencia de ahora que no queremos que nadie nos toque".<cite> Marco Pereira - Director del videoclip</cite>
+
+Hace poco tocaron en [Circuito Nacional](https://lnkfi.re/CircuitoNacionalSubs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpiRtn3zH8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Discografía:
