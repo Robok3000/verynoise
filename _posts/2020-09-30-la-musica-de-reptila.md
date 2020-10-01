@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "El Afrofuturismopunk de Reptilia"
+title:  "El Afrofuturismopunk de Reptila"
 tags: [ música, soul, chile ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/reptilia.jpg
+featured_image: assets/images/posts/2018/reptila.jpg
 featured: true
 author: Piter
 ---
 
-Escuchar Reptilia es estar en medio de una danza tribal ancestral y futurista en donde se está invocando a la belleza de la Luna a punta de sintetizadores, delays y cantos. Es un viaje al interior de la selva que a veces rodea nuestra alma. Es un viaje que hay que emprender.
+Escuchar Reptila es estar en medio de una danza tribal ancestral y futurista en donde se está invocando a la belleza de la Luna a punta de sintetizadores, delays y cantos. Es un viaje al interior de la selva que a veces rodea nuestra alma. Es un viaje que hay que emprender.
 
-# ¿Quiénes son Reptilia?
+# ¿Quiénes son Reptila?
 
 - Andréa Zarate
 - Maité Rojas
@@ -81,8 +81,8 @@ Y también poder grabar un disco en **Estudios del Sur**. Estudio chileno que es
 
 ## Redes Sociales
 
-📸 [Instagram de Reptilia](https://www.instagram.com/reptilamusica)
+📸 [Instagram de Reptila](https://www.instagram.com/reptilamusica)
 
-🎙 [Spotify de Reptilia](https://open.spotify.com/artist/3iITPOD4UlvqOYr6OYEnWN)
+🎙 [Spotify de Reptila](https://open.spotify.com/artist/3iITPOD4UlvqOYr6OYEnWN)
 
-📼 [Youtube de Reptilia](https://www.youtube.com/channel/UC_bQow-YnS5uYSO7xt-t5yw)
+📼 [Youtube de Reptila](https://www.youtube.com/channel/UC_bQow-YnS5uYSO7xt-t5yw)
