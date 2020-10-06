@@ -20,7 +20,7 @@ Goro es el nombre del artista que creo esta pieza musical llamada "Sinestesia", 
 
 # Sinestesia
 
-[Goro - Sinestesia](https://imgur.com/oMuxxSC.jpg)
+![Goro - Sinestesia](https://imgur.com/oMuxxSC.jpg)
 
 Escucha la canción completa aquí: 🎧 [Sinestesia](https://open.spotify.com/track/26nw6UHRGCW87obcsZKyZH)
 
