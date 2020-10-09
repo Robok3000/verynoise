@@ -74,14 +74,14 @@ La tiguerita con DIME KLK y la ALBANY jejeje aa y bueno, hace ya 3 años aprox, 
 
 ### ¿Cuál es tu percepción sobre esta pandemia mundial?
 
-Creo que nos sirvió para darnos cuenta que no podemos controlar al universo; a la vida. Podemos estar trabajando de pana, rutina, estructura y construyendo un futuro, viviendo en el presente pensando en el futuro como enfermos mentales haciendo dinero, explotándo la mente y el cuerpo PERO de un día para otro cagaste pandemia, fin del mundo, pobreza, chile es una mierda y así. Al igual que la pandemia, un día vamos a enfermarnos y vamos morir. No podemos controlar eso.. No podemos controlar nada más que nuestras acciones primarias y algunas secundarias aunque no todas, porque en general depende de otres también. Fuera de eso, todo lo demás es muy grande y se escapa de nuestras manos. Sabían que estar en un taco (tráfico de autos) igual se escapa de nuestras manos? Aún así eso nos trae problemas, porque como humanos somos imbéciles nos olvidamos que estamos hechos de sangre y weas raras: no de cables, metal o cartón, para los que se consideran más baratos.  En resumen, <mark>no vale la pena estresarse y ni menos vivir por y para otros. Vive por ti y deja de vivir. Se feliz, deja la puerta abierta a las sorpresas buenas y malas de la vida, el cosmos, el universo y fluye como el agua.</> La vida se trata sólo de surfear una ola y a medida que avanzas aprende a observar y respirar profundo, sobre todo agradecer que tenemos un día más de vida, que no fuimos una hormiga o peor, que no existimos. Haz lo que más te guste, persigue tus sueños, esos sueños que llenan el alma y no los bolsillos AUNQUE si tu sueño es ser millo vos dale, te apaño y - l más importante -que todos los demás se jodan bien jodidos si no les gusta la wea que se vayan. Y bueno, la pandemia sólo sirvió para eso, lo demás como la mierda lo peor pero que vamos hacer? Seguir como siempre hemos seguido, triste o feliz, yo prefiero seguir riéndome de las desgracias mías y de cómo el destino se burla de mí de vez en cuando.  
+Creo que nos sirvió para darnos cuenta que no podemos controlar al universo; a la vida. Podemos estar trabajando de pana, rutina, estructura y construyendo un futuro, viviendo en el presente pensando en el futuro como enfermos mentales haciendo dinero, explotándo la mente y el cuerpo PERO de un día para otro cagaste pandemia, fin del mundo, pobreza, chile es una mierda y así. Al igual que la pandemia, un día vamos a enfermarnos y vamos morir. No podemos controlar eso.. No podemos controlar nada más que nuestras acciones primarias y algunas secundarias aunque no todas, porque en general depende de otres también. Fuera de eso, todo lo demás es muy grande y se escapa de nuestras manos. Sabían que estar en un taco (tráfico de autos) igual se escapa de nuestras manos? Aún así eso nos trae problemas, porque como humanos somos imbéciles nos olvidamos que estamos hechos de sangre y weas raras: no de cables, metal o cartón, para los que se consideran más baratos.  En resumen, <mark>no vale la pena estresarse y ni menos vivir por y para otros. Vive por ti y deja de vivir. Se feliz, deja la puerta abierta a las sorpresas buenas y malas de la vida, el cosmos, el universo y fluye como el agua.</mark> La vida se trata sólo de surfear una ola y a medida que avanzas aprende a observar y respirar profundo, sobre todo agradecer que tenemos un día más de vida, que no fuimos una hormiga o peor, que no existimos. Haz lo que más te guste, persigue tus sueños, esos sueños que llenan el alma y no los bolsillos AUNQUE si tu sueño es ser millo vos dale, te apaño y - l más importante -que todos los demás se jodan bien jodidos si no les gusta la wea que se vayan. Y bueno, la pandemia sólo sirvió para eso, lo demás como la mierda lo peor pero que vamos hacer? Seguir como siempre hemos seguido, triste o feliz, yo prefiero seguir riéndome de las desgracias mías y de cómo el destino se burla de mí de vez en cuando.  
 
 
 ### ¿Qué te gustaría decirle al mundo?
 
 Creo que lo respondí en la anterior. Pero para terminar… el covid es real, es un virus .. lo creamos los humanos. Cuiden a los más indefensos pero primero cuidense ustedes que leen, porque si no te cuidas tu primero no puedes cuidar a nadie. Siempre día a día tiren parriba, porque pabajo es solo en el perreo. Babylizz presidenta by3
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk1rg_mDtT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Redes Sociales
 
@@ -99,8 +99,6 @@ Creo que lo respondí en la anterior. Pero para terminar… el covid es real, es
 
 ## Suscríbete a su OnlyFans
 
-[OnLizzFans 👅](https://onlyfans.com/babylizz92)
+[OnLizzFans 👅 DJ & LATINA MAMI CULONA FAT ASS DOLL <3](https://onlyfans.com/babylizz92)
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk1rg_mDtT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Lizz](https://imgur.com/SffYg7s)
