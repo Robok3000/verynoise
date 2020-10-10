@@ -63,7 +63,7 @@ Creo que el conjunto de todas, pero <mark>MADONNA fue una gran inspiración para
 UUUUU SON MILES…. I can’t. Mmm supongo que la más bacán es de la cual NO ME ACUERDO jajaja pero bueno, para mí tocar en el <mark>EDC FESTIVAL</mark> este año 2020 fue lo máximo. Primera vez en la vida que luego de años de carrera me sentí orgullosa de mi. Además, mis mejores amigas estaban ahí apoyándome y fui feliz. Ahora, en Santiago son miles de fiestas. Hay varias para recordar como las fiestas de <mark>NEOPERREO</mark> junto a LA MATRIX (ex mamba club), <mark>CANDY PERREO</mark>, la chismoteka y la fiesta mamacitas con la ms nina estuvo txao. La con la zowi la bea pelea igual.
 
 
-<blockquote class="aligncenter">“Drippin' so fast, I got gold in my eyes / A que no sabi' ná, who fuckin' rules this land / Countin' money like mad, I'm the real queen chacal / And I don't give a fuck, I don't know you, so it's eyes" <cite>- Lizz </cite></blockquote>
+<blockquote class="aligncenter">“Drippin' so fast, I got gold in my eyes / A que no sabi' ná, who fuckin' rules this land / Countin' money like mad, I'm the real queen chacal / And I don't give a fuck, I don't know you, so it's done" <cite>- Lizz </cite></blockquote>
 
 
 ### ¿Qué artista nueva/o le recomendarías a la gente?
