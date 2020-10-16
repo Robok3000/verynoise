@@ -102,4 +102,4 @@ Se viene otro track pronto.
 <center><iframe src="https://open.spotify.com/embed/artist/3owMT8GeMbxn56jymjdByn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 ![Ame Amerique](https://imgur.com/x431fyv.jpg)
-💇‍♀️[Romina Carvajal](https://www.instagram.com/peluqueriaromana)
+💇‍ Hair [Romina Carvajal](https://www.instagram.com/peluqueriaromana)
