@@ -62,7 +62,7 @@ Te diré 5 discos que me marcaron.
 5. Is This It (The Strokes)
 
 <blockquote class="alignleft">“Ven, quémame si quieres  ahora con tu lava. Sé bien que no te importa casi nada.
-- ¿Dónde  quieres vivir ? Me dijo: en ninguna parte, basta que no falte el arte.” <cite>- AME </cite></blockquote>
+-¿Dónde  quieres vivir ? Me dijo: en ninguna parte, basta que no falte el arte.” <cite>- AME </cite></blockquote>
 
 
 ### ¿Qué debería pasar para que los músicos/artistas puedan vivir de lo que hacen?
@@ -71,7 +71,7 @@ Que el Estado diera la verdadera importancia que merece el arte para el desarrol
 
 ### ¿Qué series o películas recomendarías que te gustaron gracias a su soundtrack?
 
-Todas las películas de Tarkovsky me gustan mucho y la música de sus pelis también. . Recomendaría el álbum [Mapc 1 de Carlos Marte](https://carlosmarte.bandcamp.com/) que es notable.
+Todas las películas de Tarkovsky me gustan mucho y la música de sus pelis también. Recomendaría el álbum [Mapc 1 de Carlos Marte](https://carlosmarte.bandcamp.com/) que es notable.
 
 ### ¿Cuál es tu próximo proyecto?
 
