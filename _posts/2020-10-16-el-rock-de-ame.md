@@ -12,7 +12,7 @@ Ame es un proyecto musical que revive al rock y lo posiciona nuevamente en el lu
 
 # ¿Quién es AME?
 
-La mejor forma de describer a Ame (Amerique) es escuchándola cantar:
+La mejor forma de describir a Ame es escuchándola cantar:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/gnUdLUZ1Bnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -45,12 +45,12 @@ Crear y expresarme
 
 ### ¿Si te pidieran hacer de nuevo el tema central de una película, de cuál sería?
 
-“ LAVA” es parte del soundtrack de la película chilena  “Aquí no ha pasado nada”  del director Alejandro Fernández  y  en la película Fragmentos de Lucía  de Jorge Yacoman , hice la voz del tema“ En la luz” junto a Jurel Sónico de la banda Adelaida.
+“LAVA” es parte del soundtrack de la película chilena  “Aquí no ha pasado nada” del director Alejandro Fernández y en la película Fragmentos de Lucía de Jorge Yacoman hice la voz del tema“ En la luz” junto a Jurel Sónico de la banda Adelaida.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6M_3WZla1Gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-### ¿SI hicieran un documental sobre tu vida, cuáles serían las 5 canciones que no podrían faltar en el soundtrack?
+### ¿Si hicieran un documental sobre tu vida, cuáles serían las 5 canciones que no podrían faltar en el soundtrack?
 
 Te diré 5 discos que me marcaron.
 
@@ -61,16 +61,17 @@ Te diré 5 discos que me marcaron.
 4. MTV Unplugged in New York (Nirvana)
 5. Is This It (The Strokes)
 
-<blockquote class="alignleft">“Ven, quémame si quieres  ahora con tu lava. Sé bien que no te importa casi nada.- ¿Dónde  quieres vivir ? Me dijo: en ninguna parte, basta que no falte el arte.” <cite>- AME </cite></blockquote>
+<blockquote class="alignleft">“Ven, quémame si quieres  ahora con tu lava. Sé bien que no te importa casi nada.
+- ¿Dónde  quieres vivir ? Me dijo: en ninguna parte, basta que no falte el arte.” <cite>- AME </cite></blockquote>
 
 
 ### ¿Qué debería pasar para que los músicos/artistas puedan vivir de lo que hacen?
 
- Que el Estado le diera la importancia que merece el  arte para el desarrollo cultural de nuestro país.
+Que el Estado diera la verdadera importancia que merece el arte para el desarrollo cultural de nuestro país
 
 ### ¿Qué series o películas recomendarías que te gustaron gracias a su soundtrack?
 
-Todas las películas de Tarkovsky me gustan mucho y su música también. Recomendaría el álbum Mapc 1 de Carlos Marte que es notable. https://carlosmarte.bandcamp.com/
+Todas las películas de Tarkovsky me gustan mucho y la música de sus pelis también. . Recomendaría el álbum [Mapc 1 de Carlos Marte](https://carlosmarte.bandcamp.com/) que es notable.
 
 ### ¿Cuál es tu próximo proyecto?
 
