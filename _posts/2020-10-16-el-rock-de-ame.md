@@ -37,7 +37,7 @@ Creo que la música como  otro tipo de  cosas es cíclica y eso no quita que la 
 
 Crear y expresarme
 
-
+<blockquote class="alignright">“Todo lo que digo te parece afectar. Y hiero tu ego justo en el lugar que más te duele” <cite>- AME </cite></blockquote>
 
 ### ¿Cuál fue la canción/artista/banda que abrió tu mente para darte cuenta que la música era lo tuyo y por qué crees que influyó tanto en ti?  
 
@@ -81,7 +81,6 @@ Se viene otro track pronto.
 
 ![Ame Amerique](https://imgur.com/BqREQBL.jpg)
 
-<blockquote class="alignright">“Todo lo que digo te parece afectar. Y hiero tu ego justo en el lugar que más te duele” <cite>- AME </cite></blockquote>
 
 ## ¿Qué le dirías al mundo?  
 
