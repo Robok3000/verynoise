@@ -10,11 +10,13 @@ author: Piter
 
 Ame es un proyecto musical que revive al rock y lo posiciona nuevamente en el lugar que debe estar. Es sin duda, una artista que debes comenzar a seguir y no soltarle la mano. Pronto se viene un nuevo single. :)
 
+📸 Fotografía Portada [Daniela Saldaña](https://www.instagram.com/danielasaldana)
+
 # ¿Quién es AME?
 
 La mejor forma de describir a Ame es escuchándola cantar:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/gnUdLUZ1Bnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mi78X2GrHF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### ¿Cómo definirías la música que haces?
@@ -96,6 +98,9 @@ Se viene otro track pronto.
 
 🎙 [Spotify de AME](https://open.spotify.com/artist/3owMT8GeMbxn56jymjdByn?si=s-Ssi4zGR6Oa8_8jGdnV_w)
 
+⛺ [Bandcamp de AME](https://america.bandcamp.com/)
+
 <center><iframe src="https://open.spotify.com/embed/artist/3owMT8GeMbxn56jymjdByn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 ![Ame Amerique](https://imgur.com/x431fyv.jpg)
+💇‍♀️[Romina Carvajal](https://www.instagram.com/peluqueriaromana)
