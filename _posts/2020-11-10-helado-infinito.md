@@ -8,7 +8,7 @@ featured: true
 author: Piter
 ---
 
-JAWAR es un proyecto musical latinoamericano que produce música hecha con amor y con letras que esperan un cambio de percepción de todo lo que está mal.
+Helado Infinito es una banda que ha recorrido el mundo maravillando con su música, que han ido construyendo a lo largo de sus incontables viajes. Sin duda es unas de las bandas que debes conocer y seguir, porque están sacando canciones muy hermosas en estos tiempos en que se necesita un poco de belleza en nuestras vidas.
 
 
 # ¿Quién es Helado Infinito?
