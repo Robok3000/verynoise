@@ -4,7 +4,7 @@ title:  "Falleció, el dúo que debes conocer"
 tags: [ música, pop, sad, uwu ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/fallecio.jpg
-featured: true
+featured: false
 author: Piter
 ---
 

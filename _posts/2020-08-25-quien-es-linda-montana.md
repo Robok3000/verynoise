@@ -4,7 +4,7 @@ title: 'La melancolía de Linda Montaña'
 tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/linda.jpg
-featured: true
+featured: false
 author: Piter
 ---
 

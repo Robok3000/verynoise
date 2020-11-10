@@ -4,7 +4,7 @@ title:  "El Afrofuturismopunk de Reptila"
 tags: [ música, soul, chile ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/reptila.jpg
-featured: true
+featured: false
 author: Piter
 ---
 

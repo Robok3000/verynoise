@@ -4,7 +4,7 @@ title: 'El viaje adrenalínico de Carlos.00000000001'
 tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/Carlos00000000001.jpg
-featured: true
+featured: false
 author: Piter
 ---
 
