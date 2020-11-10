@@ -17,7 +17,7 @@ Este duo musical está conformado por:
 
 Loreta Neira Ocampo 🇨🇱
 Víctor Borgert 🇦🇷
-+ artistas de todo el mundo 🌎
+Y artistas de todo el mundo 🌎
 
 ![Helado Infinito](https://scontent.fscl28-1.fna.fbcdn.net/v/t1.0-9/89771122_2600322396913010_5510119122924470272_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeFXHfnUpY0BVDcUvg_hl_s2PeLCf2k8X6494sJ_aTxfruvVA9uv1ElvI-Rp_FuT7malCLMjNvsVdDiVpPX0QmuN&_nc_ohc=zHbqs7B4y80AX-jzcmB&_nc_ht=scontent.fscl28-1.fna&oh=6a1af599911462148f1a70616a02d57e&oe=5FCF59FC)
 
