@@ -77,6 +77,9 @@ Se les debería valorar como corresponde, en términos monetarios e históricos.
 
 1. PULP FICTION: Tiene ese soundtrack que combina diferentes estilos y nunca flaquea, todos los temas son buenisimos. Es, en esencia, la narrativa de la película,  y es una bomba. Muy recomendada la peli y el CD.
 2. SPACE JAM: tiene unas canciones R&B hermosas, con un nivel de sonido dignx de una película tan perfecta.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GIQn8pab8Vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 3. BLACK PANTHER:  Fue producido/compuesto casi completamente por el genio hermoso Kendrick Lamar. Tiene unos feat. buenisimos con un sonido impecable que te lleva a África caminando al metro.
 4. ELITE: Este soundtrack cruza continentes aprovechando el exitoso vuelo latino en donde suenan tracks nuevos de reggaeton, pop y trap de una manera elegante y precisa, con un excelente deleite visual con sus actorxs/actrices.
 
