@@ -13,7 +13,7 @@ Ecos Primitivos es una banda de indie/stoner psicodélico nacida en Octubre de 2
 
 # ¿Quiénes son Ecos Primitivos?
 
-Este dúo está integrado por Esteban Espinoza y Felipe Ojeda.
+este dúo está integrado Esteban Espinoza y Felipe Ojeda, y recientemente se les unió Javier Martínez
 
 Las grabaciones las hacen ellos mismos en Santiago, Chile.
 
@@ -80,7 +80,7 @@ En algún punto de nuestra historia, las vidas de las personas pasaron a un segu
 
 Hay algo más allá que todo esto, todos estamos aquí por una razón; diviértanse descubriéndolo...
 
-### ¿Qué tema de ustedes le recomendarías a nuestros seguidores? 
+### ¿Qué tema de ustedes le recomendarías a nuestros seguidores?
 
 “Krishna’s Room”, nuestro primer video del último EP “Grito Cósmico”
 
