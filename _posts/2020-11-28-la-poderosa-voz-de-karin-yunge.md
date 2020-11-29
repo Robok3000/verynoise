@@ -15,8 +15,6 @@ Nuestros demonios, esas fascinantes vibras densas, se nos unen todo el tiempo. E
 
 Es una cantante, escritora y productora musical chilena.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KQ9zF8Of7MY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ![Karin yunge](https://imgur.com/tFLVnfI.jpg)
 
 
@@ -27,7 +25,7 @@ Como un grito que desea salir de las profundidades de las entrañas, que se exte
 Intento no ponerle etiquetas de estilo a lo que hago, no me gustan. Esto es como un Menjunje de recursos sonoros que elijo oyendo diferentes estilos, y combino a gusto, como en una receta de cocina :) .
 
 
-<blockquote class="aligncenter">“Manejas mi debilidad como si nada" <cite>- Karin Yunge - Papas Fritas </cite></blockquote>
+<blockquote class="aligncenter">“Manejas mi debilidad como si nada" <cite>- Karin Yunge - Papa Frita </cite></blockquote>
 
 
 ### ¿Crees que a las nuevas generaciones les falta rock?
