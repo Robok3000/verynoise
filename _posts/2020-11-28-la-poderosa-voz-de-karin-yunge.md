@@ -89,7 +89,7 @@ Se les debería valorar como corresponde, en términos monetarios e históricos.
 
 ### ¿Cuál es tu próximo proyecto?
 
-<mark>Papa Frita</mark> es la intro de 7 canciones que serán parte de un EP llamado “ISLA” que verá la luz algún mes del 2021, el cual contará con colaboraciones de varios artistxs / productorxs como Imaabs y Hombre de luz, entre otrxs.
+<mark>Papa Frita</mark> es la intro de 7 canciones que serán parte de un EP llamado “ISLA” que verá la luz algún mes del 2021, el cual contará con colaboraciones de varios artistxs / productorxs como <mark>Imaabs y Hombre de luz, entre otrxs.</mark>
 
 La isla se encuentra en constante metamorfosis, con una atmósfera, clima y mareas determinadas. Este EP se pasea por múltiples emociones y estados propios del ser interior de cada une.
 
