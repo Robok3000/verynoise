@@ -8,7 +8,7 @@ featured: true
 author: Piter
 ---
 
-Esta es la dupla más pegajosa que podrán escuchar sus oídos. Son productores de música urbana electrónica y se especializan en reggaeton, trap y pop. Su estilo musical y su colorido arte son una mezcla perfecta para acompañar tus días pandémicos y de derretimiento mental.
+Esta es la dupla más pegajosa que podrán escuchar tus oídos. Son productores de música urbana electrónica y se especializan en reggaeton, trap y pop. Su estilo musical y su colorido arte son una mezcla perfecta para acompañar tus días pandémicos y de derretimiento mental.
 
 # ¿Quién es Hija de Putin y Niño Dani?
 
