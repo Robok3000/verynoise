@@ -4,7 +4,7 @@ title:  "Sinestesia: La opera Prima de Goro"
 tags: [ música, rock, chile ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/sinestesia.jpg
-featured: true
+featured: false
 author: Piter
 ---
 

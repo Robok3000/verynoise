@@ -4,7 +4,7 @@ title: 'La Brutal música de Bruto'
 tags: [Música]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/bruto.jpg
-featured: true
+featured: false
 author: Piter
 ---
 
@@ -82,7 +82,7 @@ Ver a gente en el público que no conoces y que nunca había visto a la banda, e
 
 📚 [Facebook:](https://www.facebook.com/Brutorock/)
 
-🦆 [Twitter:](https://twitter.com/brutorock) 
+🦆 [Twitter:](https://twitter.com/brutorock)
 
 ⛺[Bandcamp:](http://bruto.bandcamp.com/)
 
