@@ -34,9 +34,6 @@ El lanzamiento cuenta con un video dirigido por Ayleen Hun y producido por Funky
 Además estoy en la pre producción de un video para otro featuring con Schuster.
 Y en la pre producción de mi segundo Ep junto a Tomás Pérez y Francisco Victoria.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsY5BrZBZxU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ### ¿Cuál es el mejor recuerdo que tienes de alguna presentación en vivo?
 
@@ -92,6 +89,8 @@ La verdad que grabo en el estudio de mis sueños, se llama <mark>La Salitrera</m
 ### ¿Qué te gustaría decirle al mundo?
 
 <mark>Que escuchen y apoyen la escena artística chilena que está llena de talento.</mark>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WsY5BrZBZxU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Redes Sociales
