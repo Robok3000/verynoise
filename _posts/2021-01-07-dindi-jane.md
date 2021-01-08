@@ -8,15 +8,19 @@ featured: true
 author: Piter
 ---
 
-
+Si no conoces a Dindi Jane, entonces deberías hacerlo. Acá dejo una entretenida entrevista donde nos cuenta en qué está y todo lo que ha hecho en los últimos años.
 
 
 # ¿Quién es Dindi Jane?
 
-Este video puede responder perfectamente la pregunta:
+Según Wikipedia es:
+Geraldine Neary (Chile, 13 de agosto de 1988), también conocida como Dindi Jane, es una actriz de cine, teatro y televisión, cantante y modelo chilena. Actuó en las teleseries Matriarcas y Preciosas.
+
+Pero según yo, este video puede responder perfectamente la pregunta:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/rruvAeUQ1CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+Ahora vamos con la entrevista:
 
 ### ¿Cómo definirías la música que haces?
 
@@ -36,7 +40,7 @@ Y en la pre producción de mi segundo Ep junto a Tomás Pérez y Francisco Victo
 
 ### ¿Cuál es el mejor recuerdo que tienes de alguna presentación en vivo?
 
-Mi mejor recuerdo fue **MFEST 2020**, un festival que se hizo el 17 de enero de 2020 antes que cayera la pandemia. Fui el concierto más grande del cual he participado. Compartí escenario con Lizz, Princesa Alba y Tomasa del Real y eso fue algo increíble. Además que el show salió super bien y tuvimos muy buena acogida con el público.
+Mi mejor recuerdo fue **MFEST 2020**, un festival que se hizo el 17 de enero de 2020 antes que cayera la pandemia. Fui el concierto más grande del cual he participado. Compartí escenario con <mark>Lizz, Princesa Alba y Tomasa del Real</mark> y eso fue algo increíble. Además que el show salió super bien y tuvimos muy buena acogida con el público.
 
 ![dindi](https://imgur.com/FnPAMFp.png)
 
@@ -75,7 +79,7 @@ La verdad es que mi trabajo se ha focalizado más bien en el arte, la técnica y
 
 ### ¿Qué artista nueva/o le recomendarías a la gente?
 
-Descubrí hace poco gracias a un amigo a Abril de Fresa, un joven chileno muy talentoso, me encanta lo que hace, y ya conversamos para hacer un featuring este año. Y siguiendo a Abril de Fresa en instagram, conocí un grupo que él compartió en sus historias que creo que es de argentina, pero no estoy segura, que se llama Rojuu, mi nueva obsesión.
+Descubrí hace poco gracias a un amigo a <mark>Abril de Fresa</mark>, un joven chileno muy talentoso, me encanta lo que hace, y ya conversamos para hacer un featuring este año. Y siguiendo a Abril de Fresa en instagram, conocí un grupo que él compartió en sus historias que creo que es de argentina, pero no estoy segura, que se llama Rojuu, mi nueva obsesión.
 
 
 <blockquote class="alignleft">Quiero un corazón desforme / Elástico como canta Sia / No de plástico cancerígeno / Me quedo con mi fantasía / Quiero hacerla real”<cite>- DINDI JANE </cite></blockquote>
@@ -83,7 +87,7 @@ Descubrí hace poco gracias a un amigo a Abril de Fresa, un joven chileno muy ta
 
 ### ¿Cuál es el estudio de sus sueños, dónde te gustaría grabar?
 
-La verdad que grabo en el estudio de mis sueños, se llama La Salitrera y está en Santiago de Chile.
+La verdad que grabo en el estudio de mis sueños, se llama <mark>La Salitrera</mark> y está en Santiago de Chile.
 
 ### ¿Qué te gustaría decirle al mundo?
 
