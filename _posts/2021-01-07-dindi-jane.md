@@ -29,10 +29,15 @@ Me cuesta definir mi música porque creo q es bastante ecléctica. Yo escucho mu
 
 ### ¿En qué estás ahora, musicalmente hablando?
 
-Ahora estoy ad portas de lanzar un single featuring Ceaese “Olvidé a mi ex”
-El lanzamiento cuenta con un video dirigido por Ayleen Hun y producido por Funky Films.
+https://imgur.com/lmWx3MY.jpg
+
+Acabo de lanzar un single featuring Ceaese **“Olvidé a mi ex”**
+El lanzamiento cuenta con un video dirigido por **Ayleen Hun** y producido por **Funky Films**.
 Además estoy en la pre producción de un video para otro featuring con Schuster.
 Y en la pre producción de mi segundo Ep junto a Tomás Pérez y Francisco Victoria.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vOf_4QZHM1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### ¿Cuál es el mejor recuerdo que tienes de alguna presentación en vivo?
@@ -104,3 +109,5 @@ La verdad que grabo en el estudio de mis sueños, se llama <mark>La Salitrera</m
 
 
 <center><iframe src="https://open.spotify.com/embed/artist/3NtqMR9pkptsO9mRHUmYDJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
+
+![dindi jane](https://imgur.com/ilik2Fz.jpg)
