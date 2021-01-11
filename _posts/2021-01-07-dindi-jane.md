@@ -65,7 +65,7 @@ También me gustaría hacer un cover de mi reguetonero favorito: Arcangel
 
 Generalmente descubro nueva música por recomendaciones personales, es decir, amigos que comparten la música que les gusta. También en instagram, dado que podemos musicalizar las historias.
 
-### ¿Qué piensan de los medios que existen para difundir la música?
+### ¿Qué piensan de los medios que existen para difundir la música como Spotify o Apple Music?
 
 Son muy bakanes porque hoy en dia cualquiera que tenga buena música, la puede mostrar al mundo.
 
