@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dindi Jane se olvidó de su ex"
+title:  "Dindi Jane olvidó a su ex"
 tags: [ música, electrónica, trap, chile ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/dindijane.png
@@ -8,7 +8,7 @@ featured: true
 author: Piter
 ---
 
-Si no conoces a Dindi Jane, entonces deberías hacerlo. Acaba de lanzar un nuevo single "Olvidé a mi ex" que viene con un video que está muy hermoso y la canción va a estar resonando un buen rato en tu cabeza. Y cuando escuches las otras, te quedarás un buen rato escuchándola y disfrutando de su flow. 
+Si no conoces a Dindi Jane, entonces deberías hacerlo. Acaba de lanzar un nuevo single "Olvidé a mi ex" que viene con un video que está muy hermoso y la canción va a estar resonando un buen rato en tu cabeza. Y cuando escuches las otras, te quedarás un buen rato escuchándola y disfrutando de su flow.
 
 # ¿Quién es Dindi Jane?
 
@@ -32,8 +32,8 @@ Me cuesta definir mi música porque creo q es bastante ecléctica. Yo escucho mu
 
 Acabo de lanzar un single featuring Ceaese **“Olvidé a mi ex”**
 El lanzamiento cuenta con un video dirigido por **Ayleen Hun** y producido por **Funky Films**.
-Además estoy en la pre producción de un video para otro featuring con Schuster.
-Y en la pre producción de mi segundo Ep junto a Tomás Pérez y Francisco Victoria.
+Además estoy en la pre producción de un video para otro featuring con **Schuster**.
+Y en la pre producción de mi segundo Ep junto a **Tomás Pérez** y **Francisco Victoria**.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vOf_4QZHM1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
