@@ -8,7 +8,7 @@ featured: true
 author: Piter
 ---
 
-💀Te invito a un viaje por el cosmos, donde residen los cosmonautas marxistas que están levantando un imperio interplanetario socialista
+💀Te invito a un viaje por el cosmos, donde residen los cosmonautas marxistas que están levantando un federación interplanetaria socialista
 y que se comunican a través de las ondas electromagnéticas de la música electrónica.💀
 
 # ¿Cómo describirías el proyecto musical Carlos Marte💀?
@@ -52,11 +52,6 @@ Super cliché, pero mi sueño es tener una <mark>Roland Tr-808 original</mark>.
 ### ¿Cuál es el método que usas para descubrir nueva música?
 
 Juntándose y hablando de música con amigos, caminando en la calle atento a lo que se escucha,  revisando redes sociales y por Youtube, Spotify, Bandcamp, Podcast y radio. En ese orden.
-
-
-### ¿Cuál es el método que usas para descubrir nueva música?
-
-Generalmente descubro nueva música por recomendaciones personales, es decir, amigos que comparten la música que les gusta. También en instagram, dado que podemos musicalizar las historias.
 
 <blockquote class="alignright">“Que cultive el espíritu crítico, que apoye a los más oprimidos, que la solución a este sistema de mierda está siempre en la imaginar algo nuevo y mejor, que se cuiden, que bailen y amen lo más que puedan y que Marx tenía razón.” <cite>- CARLOS MARTE 💀 </cite></blockquote>
 
