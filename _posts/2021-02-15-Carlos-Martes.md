@@ -3,7 +3,7 @@ layout: post
 title:  "Carlos Martes el Cosmonauta Marxista Marciano 666 💀"
 tags: [ música, electrónica, chile ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/carlosmartes.jpg
+featured_image: assets/images/posts/2018/carlosmarte.jpg
 featured: true
 author: Piter
 ---
@@ -56,6 +56,9 @@ Juntándose y hablando de música con amigos, caminando en la calle atento a lo 
 ### ¿Cuál es el método que usas para descubrir nueva música?
 
 Generalmente descubro nueva música por recomendaciones personales, es decir, amigos que comparten la música que les gusta. También en instagram, dado que podemos musicalizar las historias.
+
+<blockquote class="alignright">“Que cultive el espíritu crítico, que apoye a los más oprimidos, que la solución a este sistema de mierda está siempre en la imaginar algo nuevo y mejor, que se cuiden, que bailen y amen lo más que puedan y que Marx tenía razón.” <cite>- CARLOS MARTE 💀 </cite></blockquote>
+
 
 ### ¿Qué piensan de los medios que existen para difundir la música?¿Como difundes tu música?
 
