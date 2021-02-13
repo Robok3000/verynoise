@@ -8,9 +8,10 @@ featured: true
 author: Piter
 ---
 
-Te invito a un viaje por el cosmos, donde residen los cosmonautas marxistas que están levantando un imperio interplanetario socialista y que se comunican a través de la música electrónica.
+💀Te invito a un viaje por el cosmos, donde residen los cosmonautas marxistas que están levantando un imperio interplanetario socialista
+y que se comunican a través de las ondas electromagnéticas de la música electrónica.💀
 
-# ¿Cómo describirías el proyecto musical Carlos Marte?
+# ¿Cómo describirías el proyecto musical Carlos Marte💀?
 
 Carlos Marte es una excusa para mezclar y contraponer discursos políticos, ideas relacionadas con la filosofía y la historia del Arte, superpuestos como ¨samples¨ en música y ritmos contemporáneos bailables. Los conceptos que utilizo, tienen relación con un imaginario cinematográfico, histórico y popular (POP), siempre desde la dialéctica marxista.
 
