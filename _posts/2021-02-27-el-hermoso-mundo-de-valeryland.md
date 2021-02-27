@@ -15,7 +15,7 @@ author: Piter
 Trap romántico coquetea con reggaetón. También hago baladas, me sale fácil la onda emo. Siempre pop, nunca inpop.
 Objetivamente creo que mi música va dirigida a personas jóvenes, a la escena local y de habla hispana. También tengo buena recepción en niñes y gatos.
 
-![Valeryland](https://imgur.com/pXJZTSS)
+![Valeryland](https://imgur.com/pXJZTSS.png)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/JjVwQ5cfsjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -27,7 +27,7 @@ Mi último single y EP “Vagabunda” surge de una ruptura amorosa muy potente,
 
 O “Belén & Bagdad”, que habla de la historia de dos personas enfrentadas, de sus vivencias en el amor, pero también de dos culturas, del conflicto económico y religioso en Medio Oriente y de la historia de la destrucción, que es mucho más antigua que la guerra entre EEUU e Irak, de la Mesopotamia fértil y sus cercanías, origen y soporte de grandes civilizaciones y culturas, muches han querido poseerlo. Esa canción surgió también al pensar en las mujeres, en cómo en distintas culturas y religiones se ha procurado cubrir su belleza, su pelo, su cuerpo, su voz. En ese sentido en Occidente y Oriente, más allá de las formas de habitar nuestras culturas, creo que “no somos tan diferentes”, porque las mujeres seguimos siendo oprimidas por el patriarcado, cuestión que las feministas estamos trabajando para cambiar.
 
-![Belen y Bagdad](https://imgur.com/MLdVUxh)
+![Belen y Bagdad](https://imgur.com/MLdVUxh.png)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XNKQZlK78F0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
